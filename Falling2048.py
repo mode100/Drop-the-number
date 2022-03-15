@@ -384,6 +384,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# pyinstaller C:\Users\yuito\Documents\Works\Code\Python\Pygame\Falling2048.py --onefile --noconsole
-# python C:\Users\yuito\Documents\Works\Code\Python\Pygame\Falling2048.py
